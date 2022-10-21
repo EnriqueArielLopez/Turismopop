@@ -24,8 +24,6 @@
 .navbar a{
     color: #ffffff;
     font-size: 15px;
-    font-family: 'Oswald', sans-serif;
-
 
 }
 
@@ -380,7 +378,23 @@
             width: 50px;
         }
     }
+/* Footer */
+.footer-section{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 6rem;
+    
+}
+.footer-section p{
+    font-size: 13px;
 
+}
+
+.footer-section .texto__footer__secundario{
+    margin-top: 0.9rem;
+    opacity: 0.9;
+}
 
 
 
